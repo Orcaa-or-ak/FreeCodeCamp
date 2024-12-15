@@ -1,2 +1,1 @@
-# FreeCodeCamp
-FreeCodeCamp Relational Database project
+# FreeCodeCamp Relational Database project
